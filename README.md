@@ -1,6 +1,4 @@
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
-
-This site was built using [GitHub Pages](https://github.com/jstrieb/github-stats).
+# [Original link to GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
